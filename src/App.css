@@ -72,6 +72,7 @@ tr:nth-child(even) {
     padding: 10px 14px;
     height: fit-content;
     border-radius: 8px 8px 0 0;
+    border:none;
     background-color: var(--secondary-color);
     font-weight: 400;
     color: #f2f2f2;
@@ -80,21 +81,21 @@ tr:nth-child(even) {
     background-color: var(--primary-color);
   }
 }
-button {
-  position: absolute;
+.theme {
+  position: absolute ;
   top: 10px;
   right: 10px;
-  background-color: var(--primary-color);
+  background:var(--background-color2);
   color: var(--text-color);
   border: none;
-  padding: 8px 16px;
+  padding: 5px 6px;
+  border-radius: 10px;
   cursor: pointer;
 }
-
-button.dark-mode {
-  background-color: var(--text-color);
-  color: var(--primary-color);
+button.dark-mode:hover, button:hover{
+  color:var(--primary-color);
 }
+
 
 .container {
   overflow-x: auto;

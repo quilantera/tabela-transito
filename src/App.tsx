@@ -1,3 +1,4 @@
+import { MoonStar, SunMoon } from 'lucide-react';
 import { useState } from 'react';
 import './App.css';
 import { domingo, sabado } from './integrantes';
@@ -47,8 +48,8 @@ function App() {
   }
   return (
     <main> 
-       <button className={isDarkMode ? 'dark-mode' : ''} onClick={toggleDarkMode}>
-        {isDarkMode ? 'Light Mode' : 'Dark Mode'}
+       <button className={isDarkMode ? 'theme dark-mode' : 'theme '} onClick={toggleDarkMode}>
+        {isDarkMode ? <MoonStar size={30} />  : <SunMoon size={30} />}
       </button>
       <h1>Programação Transito EJC 2023</h1>
       <div className='button-area'>
