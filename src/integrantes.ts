@@ -172,7 +172,7 @@ export const sabado =[
     {
         local:'Estacionamento',
         pessoa1:'Tio Flávio',
-        pessoa2:'Tio Stephanie',
+        pessoa2:'Tia Stephanie',
         pessoa3:'Henrique'
     },
     {

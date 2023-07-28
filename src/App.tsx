@@ -35,9 +35,13 @@ function App() {
                 <tr>                
                 <td  className='horario'>{7+index*2+':00'}</td>
                   {horario.map((evento)=>(
-                    <td>  {evento.pessoa1}
-                    {evento.pessoa2 && ` e ${evento.pessoa2}`}
-                    {evento.pessoa3 && ` e ${evento.pessoa3}`}</td>
+                    <td>
+                        {evento.pessoa1}
+                        {evento.pessoa2 && <br />} {/* Adiciona <br> somente se pessoa2 existe */}
+                        {evento.pessoa2 && evento.pessoa2} {/* Exibe pessoa2 somente se ela existe */}
+                        {evento.pessoa3 && <br />} {/* Adiciona <br> somente se pessoa3 existe */}
+                        {evento.pessoa3 && `e ${evento.pessoa3}`} {/* Exibe pessoa3 somente se ela existe */}
+                      </td>
                   ))}
                 </tr>
               ))

@@ -48,8 +48,10 @@ td {
   cursor: default;
   padding: 10px 4px;
   border: 0.5px solid var(--border-color);
-  text-align: left;
+  text-align: center;
+  line-height: 1.2;
   font-weight: 600;
+  width: 250px;
 }
 
 th {
@@ -59,8 +61,11 @@ th {
   font-size: 1.125rem;
   text-align: center;
   letter-spacing: 0.4px;
-}
 
+}
+tr{
+  height: 84px;
+}
 tr:nth-child(even) {
   background-color: var(--background-color2);
 }
