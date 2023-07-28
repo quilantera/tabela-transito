@@ -649,8 +649,8 @@ export const domingo =[
     },
     {
         local:'Portão Equipes',
-        pessoa1:'Matheus N',
-        pessoa2:'Marianna',
+        pessoa1:'Tia Camila P',
+        pessoa2:'Gustavo',
     },
     {
         local:'Estacionamento',
