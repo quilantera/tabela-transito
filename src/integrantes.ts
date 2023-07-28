@@ -105,7 +105,7 @@ export const sabado =[
     {
         local:'Capela/Liturgia',
         pessoa1:'Matheus N',
-        pessoa2:' Tia Stephanie',
+        pessoa2:'Tia Stephanie',
     },
     {
         local:'Escada Equipes',
@@ -248,7 +248,7 @@ export const sabado =[
     },
     {
         local:'Circulo',
-        pessoa1:'Matheus M',
+        pessoa1:'Matheus N',
         pessoa2:'Felipe',
     },
     {
