@@ -17,7 +17,7 @@ export const nomes = [
     'Tia Stephanie',
     'Tio Flávio',
     'Tia Camila P',
-    'Tio Thiago',
+    'Gustavo',
     'Tia Ariane',
     'Tio Matheus Y',
 ]
@@ -40,8 +40,9 @@ export const sabado =[
     },
     {
         local:'Portão Jovens',
-        pessoa1:'Felipe',
+        pessoa1:'Marlon',
         pessoa2:'Tia Camila M',
+        
     },
     {
         local:'Escada Capela',
@@ -49,7 +50,7 @@ export const sabado =[
         pessoa2:'Tia Ariane',
     },
     {
-        local:'Capela/Liturgia',
+        local:'Capela / Liturgia',
         pessoa1:'Samuel',
         pessoa2:'Milena',
     },
@@ -66,8 +67,8 @@ export const sabado =[
     {
         local:'Estacionamento',
         pessoa1:'Tio Flávio',
-        pessoa2:'Tio Thiago',
-        pessoa3:'Marlon'
+        pessoa2:'Gustavo',
+        pessoa3:'Felipe'
     },
     {
         local:'Descanso',
@@ -120,7 +121,7 @@ export const sabado =[
         local:'Estacionamento',
         pessoa1:'Felipe',
         pessoa2:'Tia Camila M',
-        pessoa3:'Tio Thiago'
+        pessoa3:'Gustavo'
     },
     {
         local:'Descanso',
@@ -132,7 +133,7 @@ export const sabado =[
     {
         local:'Plenário',
         pessoa1:'Matheus N',
-        pessoa2:'Tio Thiago',
+        pessoa2:'Gustavo',
     },
     {
         local:'Escada Plenário',
@@ -224,7 +225,7 @@ export const sabado =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Thiago',
+        pessoa1:'Gustavo',
         pessoa2:'Lucas',
         pessoa3:'Felipe'
     },
@@ -242,7 +243,7 @@ export const sabado =[
     },
     {
         local:'Escada Plenário',
-        pessoa1:'Tio Thiago',
+        pessoa1:'Gustavo',
         pessoa2:'Tia Stephanie',
     },
     {
@@ -331,7 +332,7 @@ export const sabado =[
     {
         local:'Estacionamento',
         pessoa1:'Tia Camila P',
-        pessoa2:'Tio Thiago',
+        pessoa2:'Gustavo',
         pessoa3:'Marcelo'
     },
     {
@@ -384,7 +385,7 @@ export const sabado =[
     {
         local:'Estacionamento',
         pessoa1:'Tio Flávio',
-        pessoa2:'Tio Thiago',
+        pessoa2:'Gustavo',
         pessoa3:'Tia Stephanie'
     },
     {
@@ -422,7 +423,7 @@ export const domingo =[
         pessoa2:'Marlon',
     },
     {
-        local:'Capela/Liturgia',
+        local:'Capela / Liturgia',
         pessoa1:'Lucas',
         pessoa2:'Henrique',
     },
@@ -439,7 +440,7 @@ export const domingo =[
     {
         local:'Estacionamento',
         pessoa1:'Tio Flávio',
-        pessoa2:'Tio Thiago',
+        pessoa2:'Gustavo',
         pessoa3:'Murilo'
     },
     {
@@ -493,7 +494,7 @@ export const domingo =[
         local:'Estacionamento',
         pessoa1:'Felipe',
         pessoa2:'Tia Camila M',
-        pessoa3:'Tio Thiago'
+        pessoa3:'Gustavo'
     },
     {
         local:'Descanso',
@@ -519,7 +520,7 @@ export const domingo =[
     },
     {
         local:'Portão Jovens',
-        pessoa1:'Tio Thiago',
+        pessoa1:'Gustavo',
         pessoa2:'Marlon',
     },
     {
@@ -529,8 +530,9 @@ export const domingo =[
     },
     {
         local:'Capela/Liturgia',
-        pessoa1:'Felipe',
-        pessoa2:'Tia Camila M',
+        pessoa1:'Daniel',
+        pessoa2:'Raissa',
+       
     },
     {
         local:'Escada Equipes',
@@ -544,14 +546,16 @@ export const domingo =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tia Stephanie',
-        pessoa2:'Tio Flávio',
+        pessoa1:'Felipe',
+        pessoa2:'Tia Camila M',
         pessoa3:'Tia Camila P'
     },
     {
         local:'Descanso',
-        pessoa1:'Daniel',
-        pessoa2:'Raissa',
+    
+        pessoa1:'Tia Stephanie',
+        pessoa2:'Tio Flávio',
+        
     }
 ],
 [
@@ -704,13 +708,13 @@ export const domingo =[
     {
         local:'Estacionamento',
         pessoa1:'Tio Flávio',
-        pessoa2:'Tio Thiago',
+        pessoa2:'Gustavo',
         pessoa3:'tia Stephanie'
     },
     {
         local:'Descanso',
         pessoa1:'Matheus N',
-        pessoa2:'Marinna',
+        pessoa2:'Marianna',
     }
 ],
 ]

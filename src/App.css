@@ -47,11 +47,14 @@ th,
 td {
   cursor: default;
   padding: 10px 4px;
-  border: 0.5px solid var(--border-color);
+  
   text-align: center;
   line-height: 1.2;
   font-weight: 600;
   width: 250px;
+}
+td{
+  border: 1px solid var(--border-color);
 }
 
 th {
@@ -69,13 +72,20 @@ tr{
 tr:nth-child(even) {
   background-color: var(--background-color2);
 }
+.features-area{
+width: 100%;
+display: flex; 
+justify-content: space-between;
+
+}
 .button-area{
   width: 400px;
+  padding-right: 40px; 
   display: flex;
   .dia{
     position: static;
     padding: 10px 14px;
-    height: fit-content;
+   
     border-radius: 8px 8px 0 0;
     border:none;
     background-color: var(--secondary-color);
@@ -85,6 +95,18 @@ tr:nth-child(even) {
   .selected{
     background-color: var(--primary-color);
   }
+ 
+}
+select{
+  height: fit-content;
+  align-self: end;
+  background: var(--background-color2);
+  color: var(--text-color);
+  border:2px solid var(--border-color);
+  border-radius: 4px;
+  font-size: 14px;
+  height: 40px;
+  
 }
 .theme {
   position: absolute ;
@@ -118,15 +140,6 @@ button.dark-mode:hover, button:hover{
   th {
     text-align: center;
 
-  }
-  button{
-    font-size: 0.7rem;
-  }
-  td,th{
-    font-size: 0.75rem
-  }
-  tr {
-    margin-bottom: 0.625em;
   }
 
   th:last-child,
