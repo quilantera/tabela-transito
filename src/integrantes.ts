@@ -15,7 +15,7 @@ export const nomes = [
     'Lucas',
     'Tia Camila M',
     'Tia Stephanie',
-    'Tio Fabio',
+    'Tio Flávio',
     'Tia Camila P',
     'Tio Thiago',
     'Tia Ariane',
@@ -65,7 +65,7 @@ export const sabado =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Tio Thiago',
         pessoa3:'Marlon'
     },
@@ -108,7 +108,7 @@ export const sabado =[
     },
     {
         local:'Escada Equipes',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Marlon',
     },
     {
@@ -171,7 +171,7 @@ export const sabado =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Tio Stephanie',
         pessoa3:'Henrique'
     },
@@ -200,7 +200,7 @@ export const sabado =[
     {
         local:'Portão Jovens',
         pessoa1:'Tia Stephanie',
-        pessoa2:'Tio Fabio',
+        pessoa2:'Tio Flávio',
     },
     {
         local:'Escada Capela',
@@ -277,7 +277,7 @@ export const sabado =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Italo',
         pessoa3:'Tia Camila M'
     },
@@ -311,7 +311,7 @@ export const sabado =[
     {
         local:'Escada Capela',
         pessoa1:'Tia Stephanie',
-        pessoa2:'Tio Fabio',
+        pessoa2:'Tio Flávio',
     },
     {
         local:'Capela/Liturgia',
@@ -383,7 +383,7 @@ export const sabado =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Tio Thiago',
         pessoa3:'Tia Stephanie'
     },
@@ -438,7 +438,7 @@ export const domingo =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Tio Thiago',
         pessoa3:'Murilo'
     },
@@ -467,7 +467,7 @@ export const domingo =[
     {
         local:'Portão Jovens',
         pessoa1:'Tia Stephanie',
-        pessoa2:'Tio Fabio',
+        pessoa2:'Tio Flávio',
     },
     {
         local:'Escada Capela',
@@ -545,7 +545,7 @@ export const domingo =[
     {
         local:'Estacionamento',
         pessoa1:'Tia Stephanie',
-        pessoa2:'Tio Fabio',
+        pessoa2:'Tio Flávio',
         pessoa3:'Tia Camila P'
     },
     {
@@ -578,7 +578,7 @@ export const domingo =[
     {
         local:'Escada Capela',
         pessoa1:'Tia Stephanie',
-        pessoa2:'Tio Fabio',
+        pessoa2:'Tio Flávio',
     },
     {
         local:'Capela/Liturgia',
@@ -597,7 +597,7 @@ export const domingo =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Marlon',
         pessoa3:'Henrique'
     },
@@ -650,7 +650,7 @@ export const domingo =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Lucas',
         pessoa3:'Ariane'
     },
@@ -703,7 +703,7 @@ export const domingo =[
     },
     {
         local:'Estacionamento',
-        pessoa1:'Tio Fabio',
+        pessoa1:'Tio Flávio',
         pessoa2:'Tio Thiago',
         pessoa3:'tia Stephanie'
     },
