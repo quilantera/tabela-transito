@@ -46,7 +46,7 @@ export const sabado =[
     {
         local:'Escada Capela',
         pessoa1:'Matheus N',
-        pessoa2:'Marianna',
+        pessoa2:'Tia Ariane',
     },
     {
         local:'Capela/Liturgia',
@@ -71,8 +71,8 @@ export const sabado =[
     },
     {
         local:'Descanso',
-        pessoa1:'Tia Ariane',
-        pessoa2:'Tio Matheus Y',
+        pessoa1:'Tio Matheus Y',
+        pessoa2:'Marianna',
     }
 ],
 [
@@ -104,7 +104,7 @@ export const sabado =[
     {
         local:'Capela/Liturgia',
         pessoa1:'Matheus N',
-        pessoa2:'Marianna',
+        pessoa2:' Tia Stephanie',
     },
     {
         local:'Escada Equipes',
@@ -124,7 +124,7 @@ export const sabado =[
     },
     {
         local:'Descanso',
-        pessoa1:'Tia Stephanie',
+        pessoa1:'Marianna',
         pessoa2:'Tia Camila P',
     }
 ],
@@ -132,7 +132,7 @@ export const sabado =[
     {
         local:'Plenário',
         pessoa1:'Matheus N',
-        pessoa2:'Marianna',
+        pessoa2:'Tio Thiago',
     },
     {
         local:'Escada Plenário',
@@ -177,7 +177,7 @@ export const sabado =[
     },
     {
         local:'Descanso',
-        pessoa1:'Tio Thiago',
+        pessoa1:'Marianna',
         pessoa2:'Lucas',
     }
 ],
@@ -190,7 +190,7 @@ export const sabado =[
     {
         local:'Escada Plenário',
         pessoa1:'Matheus N',
-        pessoa2:'Marianna',
+        pessoa2:'Tia Camila M',
     },
     {
         local:'Circulo',
@@ -231,7 +231,7 @@ export const sabado =[
     {
         local:'Descanso',
         pessoa1:'Henrique',
-        pessoa2:'Tia Camila M',
+        pessoa2:'Marianna',
     }
 ],
 [
@@ -248,7 +248,7 @@ export const sabado =[
     {
         local:'Circulo',
         pessoa1:'Matheus M',
-        pessoa2:'Marianna',
+        pessoa2:'Felipe',
     },
     {
         local:'Portão Jovens',
@@ -283,7 +283,7 @@ export const sabado =[
     },
     {
         local:'Descanso',
-        pessoa1:'Felipe',
+        pessoa1:'Marianna',
         pessoa2:'Marcelo',
     }
 ],
@@ -321,7 +321,7 @@ export const sabado =[
     {
         local:'Escada Equipes',
         pessoa1:'Matheus N',
-        pessoa2:'Marianna',
+        pessoa2:'Italo',
     },
     {
         local:'Portão Equipes',
@@ -336,7 +336,7 @@ export const sabado =[
     },
     {
         local:'Descanso',
-        pessoa1:'Italo',
+        pessoa1:'Marianna',
         pessoa2:'Marlon',
     }
 ],
