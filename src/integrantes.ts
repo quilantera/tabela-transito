@@ -703,7 +703,7 @@ export const domingo =[
     {
         local:'Portão Equipes',
         pessoa1:'Murilo',
-        pessoa2:'Victoria',
+        pessoa2:'Raissa',
     },
     {
         local:'Estacionamento',
