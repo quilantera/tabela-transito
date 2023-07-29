@@ -355,7 +355,7 @@ export const sabado =[
     {
         local:'Circulo',
         pessoa1:'Daniel',
-        pessoa2:'Raissa',
+        pessoa2:'Victoria',
     },
     {
         local:'Portão Jovens',
@@ -409,7 +409,7 @@ export const domingo =[
     },
     {
         local:'Circulo',
-        pessoa1:'Daniel',
+        pessoa1:'Murilo',
         pessoa2:'Raissa',
     },
     {
@@ -441,7 +441,7 @@ export const domingo =[
         local:'Estacionamento',
         pessoa1:'Tio Flávio',
         pessoa2:'Gustavo',
-        pessoa3:'Murilo'
+        pessoa3:'Daniel'
     },
     {
         local:'Descanso',
@@ -453,7 +453,7 @@ export const domingo =[
     {
         local:'Plenário',
         pessoa1:'Daniel',
-        pessoa2:'Raissa',
+        pessoa2:'Victoria',
     },
     {
         local:'Escada Plenário',
@@ -499,14 +499,14 @@ export const domingo =[
     {
         local:'Descanso',
         pessoa1:'Murilo',
-        pessoa2:'Victoria',
+        pessoa2:'Raissa',
     }
 ],
 [
     {
         local:'Plenário',
         pessoa1:'Murilo',
-        pessoa2:'Victoria',
+        pessoa2:'Raissa',
     },
     {
         local:'Escada Plenário',
@@ -531,7 +531,7 @@ export const domingo =[
     {
         local:'Capela/Liturgia',
         pessoa1:'Daniel',
-        pessoa2:'Raissa',
+        pessoa2:'Victoria',
        
     },
     {
@@ -567,12 +567,12 @@ export const domingo =[
     {
         local:'Escada Plenário',
         pessoa1:'Daniel',
-        pessoa2:'Raissa',
+        pessoa2:'Victoria',
     },
     {
         local:'Circulo',
         pessoa1:'Murilo',
-        pessoa2:'Victoria',
+        pessoa2:'Raissa',
     },
     {
         local:'Portão Jovens',
@@ -635,7 +635,7 @@ export const domingo =[
     {
         local:'Escada Capela',
         pessoa1:'Daniel',
-        pessoa2:'Raissa',
+        pessoa2:'Victoria',
     },
     {
         local:'Capela/Liturgia',
@@ -645,7 +645,7 @@ export const domingo =[
     {
         local:'Escada Equipes',
         pessoa1:'Murilo',
-        pessoa2:'Victoria',
+        pessoa2:'Raissa',
     },
     {
         local:'Portão Equipes',
@@ -698,7 +698,7 @@ export const domingo =[
     {
         local:'Escada Equipes',
         pessoa1:'Daniel',
-        pessoa2:'Raissa',
+        pessoa2:'Victoria',
     },
     {
         local:'Portão Equipes',
