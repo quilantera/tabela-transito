@@ -66,11 +66,9 @@ function App() {
       <div className='features-area'>
         <div className='button-area'>
         <button className={day ==='sabado' ? 'dia selected' : 'dia'} onClick={()=>toggleTable('domingo')}>
-          <h2>Tabela Sábado</h2>
+          <h2>Tabela Domingo</h2>
         </button>
-        <button className={day ==='domingo' ? 'dia selected' : 'dia'} onClick={()=>toggleTable('domingo')}>
-          <h2>Domingo</h2>
-        </button>
+        
         </div>
         <select value={selectedName} onChange={handleSelectChange}>
           <option value={''}>Mostrar todas</option>
