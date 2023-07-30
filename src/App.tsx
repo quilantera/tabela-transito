@@ -9,7 +9,7 @@ function App() {
   const [selectedName, setSelectedName] = useState('');
   
   const [isDarkMode, setIsDarkMode] = useState(false);
-  const [day, setDay] = useState('domingo');
+  
   
   const handleSelectChange = (event: { target: { value: SetStateAction<string>; }; }) => {
     setSelectedName(event.target.value);
@@ -18,9 +18,7 @@ function App() {
     setIsDarkMode((prev) => !prev);
     document.body.classList.toggle('dark-mode');
   };
-  const toggleTable = (change: string) => {
-    setDay(()=> change)
-  }
+ 
   function showTable(){
   const dia = domingo
        return(<table>
@@ -65,7 +63,7 @@ function App() {
      
       <div className='features-area'>
         <div className='button-area'>
-        <button className={'dia selected'} onClick={()=>toggleTable('domingo')}>
+        <button className={'dia selected'} >
           <h2>Tabela Domingo</h2>
         </button>
         
