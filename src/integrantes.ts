@@ -597,7 +597,7 @@ export const domingo =[
         { local: 'Capela / Liturgia', pessoa1: 'Milena', pessoa2: 'Murilo' },
         {
           local: 'Escada Equipes',
-          pessoa1: 'Victoria',
+          pessoa1: 'Camila M',
           pessoa2: 'Tio Matheus Y'
         },
         { local: 'Portão Equipes', pessoa1: 'Daniel' },
@@ -620,7 +620,7 @@ export const domingo =[
         },
         {
           local: 'Capela / Liturgia',
-          pessoa1: 'Tia Camila M',
+          pessoa1: 'Victoria',
           pessoa2: 'Tia Ariane'
         },
         {
