@@ -65,7 +65,7 @@ function App() {
      
       <div className='features-area'>
         <div className='button-area'>
-        <button className={day ==='sabado' ? 'dia selected' : 'dia'} onClick={()=>toggleTable('domingo')}>
+        <button className={'dia selected'} onClick={()=>toggleTable('domingo')}>
           <h2>Tabela Domingo</h2>
         </button>
         
