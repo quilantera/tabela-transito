@@ -9,7 +9,7 @@ function App() {
   const [selectedName, setSelectedName] = useState('');
   
   const [isDarkMode, setIsDarkMode] = useState(false);
-  const [day, setDay] = useState('sabado');
+  const [day, setDay] = useState('domingo');
   
   const handleSelectChange = (event: { target: { value: SetStateAction<string>; }; }) => {
     setSelectedName(event.target.value);
@@ -22,7 +22,7 @@ function App() {
     setDay(()=> change)
   }
   function showTable(){
-  const dia = (day == 'sabado') ? sabado:domingo;
+  const dia = (day == 'domingo') ? domingo:domingo;
        return(<table>
           <thead>
             <tr >
