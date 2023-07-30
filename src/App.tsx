@@ -22,7 +22,7 @@ function App() {
     setDay(()=> change)
   }
   function showTable(){
-  const dia = domingo
+  const dia = "domingo"
        return(<table>
           <thead>
             <tr >
